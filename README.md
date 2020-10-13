@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**📫 How to reach me :**
+**🌱 Saya sedang belajar :**
+
+- Web Development
+- Data Analyst
+
+**📫 Bagaimana cara menghubungi saya :**
 
 - [Email](mailto:ihzarizky30@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/mochammad-ihza-rizky-karim/)
