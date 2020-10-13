@@ -4,8 +4,8 @@ Saya seorang pemuda yang Antusias dengan Dunia Teknologi, Khususnya
 dengan dunia Pemrograman, Pengembangan Website dan dunia Open Source.
 
 Saya saat ini aktif menulis artikel di 2 blog :
-- Blog Pribadi [ihzarizkyk.space](http://ihzarizkyk.space/)
-- Blog Tutorial [ihzarizkyk.blogspot.com](https://ihzarizkyk.blogspot.com/)
+- (Aktif) Blog Pribadi [ihzarizkyk.space](http://ihzarizkyk.space/)
+- (Lumayan Aktif) Blog Tutorial [ihzarizkyk.blogspot.com](https://ihzarizkyk.blogspot.com/)
 
 <!--
 **ihzarizkyk/ihzarizkyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
