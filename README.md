@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 - Web Development
 - Data Analyst
+- Business Development
 
 **📫 Bagaimana cara menghubungi saya :**
 
