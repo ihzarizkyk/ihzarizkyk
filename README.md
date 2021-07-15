@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - Data Analyst
 - Business Development
 
+**Bash Command Aliases Fav <3 :**
+
+- [Laravel Bash]("https://gist.github.com/ihzarizkyk/54346b8d72ae9f221b340a687040865f")
+
 **📫 Bagaimana cara menghubungi saya :**
 
 - [Email](mailto:ihzarizky30@gmail.com)
