@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 **Bash Command Aliases Fav <3 :**
 
-- [Laravel Bash]("https://gist.github.com/ihzarizkyk/54346b8d72ae9f221b340a687040865f")
+- [Laravel Bash](https://gist.github.com/ihzarizkyk/54346b8d72ae9f221b340a687040865f)
 
 **📫 Bagaimana cara menghubungi saya :**
 
