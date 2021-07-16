@@ -1,8 +1,8 @@
-### Halo Semua, Perkenalkan Saya Mochammad Ihza Rizky Karim 👋
+### Hello Everyone, I'am Mochammad Ihza Rizky Karim 👋
 
-Saya saat ini aktif menulis artikel di 2 blog :
-- (Aktif) Blog Pribadi [ihzarizkyk.space](http://ihzarizkyk.space/)
-- (Aktif) Blog Tutorial [ihzarizkyk.blogspot.com](https://ihzarizkyk.blogspot.com/)
+Writing Article on 2 blog site :
+- (Active) Blog Personal [ihzarizkyk.space](http://ihzarizkyk.space/)
+- (Active) Blog Tutorial [ihzarizkyk.blogspot.com](https://ihzarizkyk.blogspot.com/)
 
 <!--
 **ihzarizkyk/ihzarizkyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🌱 Saya sedang belajar :**
+**🌱 Learn About :**
 
 - Web Development
 - Data Analyst
 - Business Development
 
-**Gist Code Fav <3 :**
+**Gist Code Fav ⚡ :**
 
 - [Laravel Bash Linux](https://gist.github.com/ihzarizkyk/54346b8d72ae9f221b340a687040865f)
 
-**📫 Bagaimana cara menghubungi saya :**
+**📫 Connect with me :**
 
 - [Email](mailto:ihzarizky30@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/mochammad-ihza-rizky-karim/)
