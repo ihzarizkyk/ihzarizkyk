@@ -3,6 +3,7 @@
 Writing Article on 2 blog site :
 - (Active) Blog Personal [ihzarizkyk.github.io](http://ihzarizkyk.github.io/)
 - (Active) Blog Tutorial [ihzarizkyk.blogspot.com](https://ihzarizkyk.blogspot.com/)
+- (Active) Edcatio Website [wrisepedia.com](https://wrisepedia.com/)
 
 <!--
 **ihzarizkyk/ihzarizkyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
