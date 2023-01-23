@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 **🌱 Learn About :**
 
 - Web Development
-- Data Analyst
+- Product Management
 - Business Development
 
 **Gist Code Fav ⚡ :**
