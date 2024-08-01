@@ -1,7 +1,6 @@
 ### Hello Everyone, I'am Mochammad Ihza Rizky Karim 👋
 
 Writing Article on 2 blog site :
-- (Active) Blog Personal [ihzarizkyk.github.io](http://ihzarizkyk.github.io/)
 - (Active) Blog Tutorial [ihzarizkyk.blogspot.com](https://ihzarizkyk.blogspot.com/)
 
 <!--
