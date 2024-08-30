@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 **📫 Connect with me :**
 
 - [Email](mailto:ihzarizky30@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/mochammad-ihza-rizky-karim/)
+- [Linkedin](https://www.linkedin.com/in/ihzarizkyk/)
 
 ![Ihzarizkyk github stats](https://github-readme-stats.vercel.app/api?username=ihzarizkyk&show_icons=true)
 
