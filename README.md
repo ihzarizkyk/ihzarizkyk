@@ -22,3 +22,6 @@ Writing Article on 1 blog site :
 ![Ihzarizkyk github stats](https://github-readme-stats.vercel.app/api?username=ihzarizkyk&show_icons=true)
 
 ![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=ihzarizkyk&layout=compact)
+
+### Visitor :
+![Visitor Count](https://profile-counter.glitch.me/ihzarizkyk/count.svg)
