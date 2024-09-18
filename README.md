@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **🌱 Learn About :**
 
-- Web Development
+- Software Engineering
 - Product Management
 - Business Development
 - Project Management
