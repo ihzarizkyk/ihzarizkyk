@@ -1,6 +1,6 @@
 ### Hello Everyone, I'am Ihza👋
 
-Writing Article on 2 blog site :
+Writing Article on 1 blog site :
 - (Active) Blog Tutorial [ihzarizkyk.blogspot.com](https://ihzarizkyk.blogspot.com/)
 
 **🌱 Learn About :**
