@@ -1,1 +1,1 @@
-### Hello Everyone, I'am Ihza👋
+### Hello Everyone, I'm Ihza 👋
