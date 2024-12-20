@@ -13,9 +13,9 @@ Creative thinker and logic thinker.
 
 ## Languages:
 
-![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php)&nbsp;
-![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)&nbsp;
+![PHP](https://img.shields.io/badge/php-red?style=for-the-badge&logo=php)&nbsp;
+![Javascript](https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)&nbsp;
 
 ## Thropy Statistics
 
