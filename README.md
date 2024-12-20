@@ -26,4 +26,4 @@ Creative thinker and logic thinker.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihzarizkyk&" alt="ihzarizkyk" width="100%" height="auto" /></p>
 
-&copy; 2024
+<p align="right">&copy; 2024</p>
