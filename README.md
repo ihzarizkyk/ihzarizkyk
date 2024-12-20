@@ -2,7 +2,7 @@
 Creative thinker and logic thinker.
 - Bring to the table all my experience in software engineering, product management, and project management.
 
-## Tools:
+## Tools
 
 ![Trello](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=trello)&nbsp;
 ![Git](https://img.shields.io/badge/git-silver?style=for-the-badge&logo=git)&nbsp;
@@ -12,7 +12,7 @@ Creative thinker and logic thinker.
 ![Slack](https://img.shields.io/badge/slack-brown?style=for-the-badge&logo=slack)&nbsp;
 ![Chat GPT](https://img.shields.io/badge/chatgpt-brown?style=for-the-badge&logo=chat_gpt)&nbsp;
 
-## Languages:
+## Languages
 
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript)&nbsp;
