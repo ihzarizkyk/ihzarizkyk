@@ -22,8 +22,4 @@ Creative thinker and logic thinker.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihzarizkyk" alt="ihza" /></a> </p>
 
-## Streak Statistics
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihzarizkyk&" alt="ihzarizkyk" width="100%" height="auto" /></p>
-
 <p align="right">&copy; 2024</p>
