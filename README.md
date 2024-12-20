@@ -6,6 +6,7 @@ Creative thinker and logic thinker.
 
 ![Trello](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=trello)&nbsp;
 ![Git](https://img.shields.io/badge/git-silver?style=for-the-badge&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/github-silver?style=for-the-badge&logo=github)&nbsp;
 ![Diagrams](https://img.shields.io/badge/diagrams-silver?style=for-the-badge&logo=diagrams)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma)&nbsp;
 
