@@ -7,8 +7,11 @@ Creative thinker and logic thinker.
 ![Trello](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=trello)&nbsp;
 ![Git](https://img.shields.io/badge/git-silver?style=for-the-badge&logo=git)&nbsp;
 
+## Thropy Statistics
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudoj23" alt="sudoj23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihzarizkyk" alt="ihza" /></a> </p>
+
+## Streak Statistics
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihzarizkyk&" alt="ihzarizkyk" width="100%" height="auto" /></p>
 
