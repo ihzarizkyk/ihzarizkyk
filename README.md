@@ -4,7 +4,7 @@ Creative thinker and logic thinker.
 
 ## Tools:
 
-![Trello](https://img.shields.io/badge/trello-grey?style=for-the-badge&logo=trello)&nbsp;
+![Trello](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=trello)&nbsp;
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudoj23" alt="sudoj23" /></a> </p>
