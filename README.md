@@ -10,7 +10,7 @@ Creative thinker and logic thinker.
 ![Diagrams](https://img.shields.io/badge/diagrams-silver?style=for-the-badge&logo=diagrams)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma)&nbsp;
 ![Slack](https://img.shields.io/badge/slack-brown?style=for-the-badge&logo=slack)&nbsp;
-![Chat GPT](https://img.shields.io/badge/chat-gpt-brown?style=for-the-badge&logo=chat-gpt)&nbsp;
+![Chat GPT](https://img.shields.io/badge/chatgpt-brown?style=for-the-badge&logo=chat_gpt)&nbsp;
 
 ## Languages:
 
