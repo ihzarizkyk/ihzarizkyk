@@ -11,7 +11,7 @@ Creative thinker and logic thinker.
 ![Figma](https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma)&nbsp;
 ![Slack](https://img.shields.io/badge/slack-brown?style=for-the-badge&logo=slack)&nbsp;
 ![Chat GPT](https://img.shields.io/badge/chatgpt-brown?style=for-the-badge&logo=chat_gpt)&nbsp;
-![Postman](https://img.shields.io/badge/postman-red?style=for-the-badge&logo=postman)&nbsp;
+![Postman](https://img.shields.io/badge/postman-pink?style=for-the-badge&logo=postman)&nbsp;
 
 ## Languages
 
