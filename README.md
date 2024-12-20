@@ -13,7 +13,7 @@ Creative thinker and logic thinker.
 ![Chat GPT](https://img.shields.io/badge/chatgpt-brown?style=for-the-badge&logo=chat_gpt)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-pink?style=for-the-badge&logo=postman)&nbsp;
 
-## Languages
+## Programming Languages
 
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript)&nbsp;
