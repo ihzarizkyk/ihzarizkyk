@@ -9,6 +9,7 @@ Creative thinker and logic thinker.
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)&nbsp;
 ![Diagrams](https://img.shields.io/badge/diagrams-silver?style=for-the-badge&logo=diagrams)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma)&nbsp;
+![Slack](https://img.shields.io/badge/slack-pink?style=for-the-badge&logo=slack)&nbsp;
 
 ## Thropy Statistics
 
