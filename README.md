@@ -14,7 +14,7 @@ Creative thinker and logic thinker.
 
 ## Languages:
 
-![PHP](https://img.shields.io/badge/php-red?style=for-the-badge&logo=php)&nbsp;
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)&nbsp;
 
