@@ -6,7 +6,7 @@ Creative thinker and logic thinker.
 
 ![Trello](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=trello)&nbsp;
 ![Git](https://img.shields.io/badge/git-silver?style=for-the-badge&logo=git)&nbsp;
-![draw.io](https://img.shields.io/badge/draw.io-silver?style=for-the-badge&logo=draw.io)&nbsp;
+![Diagrams](https://img.shields.io/badge/diagrams-silver?style=for-the-badge&logo=diagrams)&nbsp;
 
 ## Thropy Statistics
 
