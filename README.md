@@ -11,6 +11,12 @@ Creative thinker and logic thinker.
 ![Figma](https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma)&nbsp;
 ![Slack](https://img.shields.io/badge/slack-brown?style=for-the-badge&logo=slack)&nbsp;
 
+## Languages:
+
+![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php)&nbsp;
+![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)&nbsp;
+
 ## Thropy Statistics
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihzarizkyk" alt="ihza" /></a> </p>
