@@ -19,8 +19,5 @@ Creative thinker and logic thinker.
 ![Javascript](https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python)&nbsp;
 
-## Thropy Statistics
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihzarizkyk" alt="ihza" /></a> </p>
 
 <p align="right">&copy; 2024</p>
