@@ -20,5 +20,9 @@ Creative thinker and logic thinker.
 ![Python](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/go-purple?style=for-the-badge&logo=go)&nbsp;
 
+## Frameworks
+
+![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)&nbsp;
+
 
 <p align="right">&copy; 2025</p>
