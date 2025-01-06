@@ -23,6 +23,7 @@ Creative thinker and logic thinker.
 ## Frameworks
 
 ![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)&nbsp;
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)&nbsp;
 
 
 <p align="right">&copy; 2025</p>
