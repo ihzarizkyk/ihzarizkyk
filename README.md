@@ -27,7 +27,7 @@ Creative thinker and logic thinker.
 
 ## Testing Tool
 
-![Katalon Studiol](https://img.shields.io/badge/katalon-black?style=for-the-badge&logo=katalon)&nbsp;
+![Katalon Studiol](https://img.shields.io/badge/katalon-studio-black?style=for-the-badge&logo=katalon-studio)&nbsp;
 
 
 <p align="right">&copy; 2025</p>
