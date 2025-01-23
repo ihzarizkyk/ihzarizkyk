@@ -11,7 +11,6 @@ Creative thinker and logic thinker.
 ![Figma](https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma)&nbsp;
 ![Slack](https://img.shields.io/badge/slack-brown?style=for-the-badge&logo=slack)&nbsp;
 ![Chat GPT](https://img.shields.io/badge/chatgpt-brown?style=for-the-badge&logo=chat_gpt)&nbsp;
-![Postman](https://img.shields.io/badge/postman-pink?style=for-the-badge&logo=postman)&nbsp;
 
 ## Programming Languages
 
@@ -28,6 +27,6 @@ Creative thinker and logic thinker.
 ## Testing Tool
 
 ![Katalon Studiol](https://img.shields.io/badge/katalon-black?style=for-the-badge&logo=katalon)&nbsp;
-
+![Postman](https://img.shields.io/badge/postman-pink?style=for-the-badge&logo=postman)&nbsp;
 
 <p align="right">&copy; 2025</p>
