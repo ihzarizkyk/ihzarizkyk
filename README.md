@@ -29,4 +29,6 @@ Creative thinker and logic thinker.
 ![Katalon Studiol](https://img.shields.io/badge/katalon-black?style=for-the-badge&logo=katalon)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-pink?style=for-the-badge&logo=postman)&nbsp;
 
+[![Check out ihzarizkyk's profile on stardev.io](https://stardev.io/developers/ihzarizkyk/badge/languages/global.svg)](https://stardev.io/developers/ihzarizkyk)
+
 <p align="right">&copy; 2025</p>
