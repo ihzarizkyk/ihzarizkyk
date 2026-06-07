@@ -2,7 +2,7 @@
 
 [![Check out ihzarizkyk's profile on stardev.io](https://stardev.io/developers/ihzarizkyk/badge/languages/global.svg)](https://stardev.io/developers/ihzarizkyk)
 
-Creative thinker and logic thinker.
+Creative thinker and logic thinker. 2 years experience in software quality assurance.
 - Bring to the table all my experience in software engineering, product management, and project management.
 
 ## Tools
@@ -31,5 +31,6 @@ Creative thinker and logic thinker.
 
 ![Katalon Studiol](https://img.shields.io/badge/katalon-black?style=for-the-badge&logo=katalon)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-pink?style=for-the-badge&logo=postman)&nbsp;
+![Playwright](https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=playwright)&nbsp;
 
-<p align="right">&copy; 2025</p>
+<p align="right">&copy; 2026</p>
